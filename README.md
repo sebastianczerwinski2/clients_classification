@@ -22,23 +22,42 @@ Dzięki temu firma może podjąć działania prewencyjne (np. zaoferować zniżk
 ## Jak uruchomić aplikację lokalnie?
 
 1. Sklonuj to repozytorium na swój komputer:
+   
    git clone https://github.com/sebastianczerwinski2/clients_classification.git
-2. Zainstaluj wymagane biblioteki:
+   
+4. Zainstaluj wymagane biblioteki:
+
+   
    pip install pandas scikit-learn streamlit joblib
-3. Uruchom aplikację Streamlit:
+   
+6. Uruchom aplikację Streamlit:
+   
    streamlit run app.py
 
    SCREENY Z DZIAŁANIA APLIKACJ:
+   
 ![Aplikacja Streamlit](screeny/screen(1).png)
+
 ![Aplikacja Streamlit](screeny/screen(2).png)
+
 ![Aplikacja Streamlit](screeny/screen(3).png)
+
 ![Aplikacja Streamlit](screeny/screen(4).png)
+
 ![Aplikacja Streamlit](screeny/screen(5).png)
+
 ![Aplikacja Streamlit](screeny/screen(10).png)
+
 SCREENY WYKRESÓW Z GOOGLE COLAB:
+
 ![Wykresy](screeny/screen(6).png)
+
 ![Wykresy](screeny/screen(7).png)
+
 ![Wykresy](screeny/screen(8).png)
+
 ![Wykresy](screeny/screen(9).png)
+
 Autor:
+
 Sebastian Czerwiński

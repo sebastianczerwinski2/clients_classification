@@ -36,27 +36,27 @@ Dzięki temu firma może podjąć działania prewencyjne (np. zaoferować zniżk
 
    SCREENY Z DZIAŁANIA APLIKACJ:
    
-![Aplikacja Streamlit](screeny/screen(1).png)
+![Aplikacja Streamlit](screeny/screen%20(1).png)
 
-![Aplikacja Streamlit](screeny/screen(2).png)
+![Aplikacja Streamlit](screeny/screen%20(2).png)
 
-![Aplikacja Streamlit](screeny/screen(3).png)
+![Aplikacja Streamlit](screeny/screen%20(3).png)
 
-![Aplikacja Streamlit](screeny/screen(4).png)
+![Aplikacja Streamlit](screeny/screen%20(4).png)
 
-![Aplikacja Streamlit](screeny/screen(5).png)
+![Aplikacja Streamlit](screeny/screen%20(5).png)
 
-![Aplikacja Streamlit](screeny/screen(10).png)
+![Aplikacja Streamlit](screeny/screen%20(10).png)
 
 SCREENY WYKRESÓW Z GOOGLE COLAB:
 
-![Wykresy](screeny/screen(6).png)
+![Wykresy](screeny/screen(%206).png)
 
-![Wykresy](screeny/screen(7).png)
+![Wykresy](screeny/screen%20(7).png)
 
-![Wykresy](screeny/screen(8).png)
+![Wykresy](screeny/screen%20(8).png)
 
-![Wykresy](screeny/screen(9).png)
+![Wykresy](screeny/screen%20(9).png)
 
 Autor:
 

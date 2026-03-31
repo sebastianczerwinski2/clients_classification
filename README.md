@@ -50,7 +50,7 @@ Dzięki temu firma może podjąć działania prewencyjne (np. zaoferować zniżk
 
 SCREENY WYKRESÓW Z GOOGLE COLAB:
 
-![Wykresy](screeny/screen(%206).png)
+![Wykresy](screeny/screen%20(6).png)
 
 ![Wykresy](screeny/screen%20(7).png)
 
